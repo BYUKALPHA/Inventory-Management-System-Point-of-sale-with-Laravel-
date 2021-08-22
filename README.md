@@ -1,0 +1,1 @@
+# Inventory-Management-System-Point-of-sale-with-Laravel-
